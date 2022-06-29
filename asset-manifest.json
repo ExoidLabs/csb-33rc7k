@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://exoidlabs.github.io/csb-33rc7k/static/css/main.82664ed0.chunk.css",
+    "main.js": "https://exoidlabs.github.io/csb-33rc7k/static/js/main.d423085d.chunk.js",
+    "main.js.map": "https://exoidlabs.github.io/csb-33rc7k/static/js/main.d423085d.chunk.js.map",
+    "runtime-main.js": "https://exoidlabs.github.io/csb-33rc7k/static/js/runtime-main.542f14f3.js",
+    "runtime-main.js.map": "https://exoidlabs.github.io/csb-33rc7k/static/js/runtime-main.542f14f3.js.map",
+    "static/css/2.a3da2932.chunk.css": "https://exoidlabs.github.io/csb-33rc7k/static/css/2.a3da2932.chunk.css",
+    "static/js/2.98538c61.chunk.js": "https://exoidlabs.github.io/csb-33rc7k/static/js/2.98538c61.chunk.js",
+    "static/js/2.98538c61.chunk.js.map": "https://exoidlabs.github.io/csb-33rc7k/static/js/2.98538c61.chunk.js.map",
+    "index.html": "https://exoidlabs.github.io/csb-33rc7k/index.html",
+    "static/css/2.a3da2932.chunk.css.map": "https://exoidlabs.github.io/csb-33rc7k/static/css/2.a3da2932.chunk.css.map",
+    "static/css/main.82664ed0.chunk.css.map": "https://exoidlabs.github.io/csb-33rc7k/static/css/main.82664ed0.chunk.css.map",
+    "static/js/2.98538c61.chunk.js.LICENSE.txt": "https://exoidlabs.github.io/csb-33rc7k/static/js/2.98538c61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.542f14f3.js",
+    "static/css/2.a3da2932.chunk.css",
+    "static/js/2.98538c61.chunk.js",
+    "static/css/main.82664ed0.chunk.css",
+    "static/js/main.d423085d.chunk.js"
+  ]
+}
